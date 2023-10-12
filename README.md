@@ -8,3 +8,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></p>
 </div>
+
+<div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/](https://www.linkedin.com/in/lukas-andrade-502156225/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-wolski" height="30" width="40" /></a>
+  <a href="https://instagram.com/oi.lukass" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrobwolski" height="30" width="40" /></a>
+  
+  <p align="right">&nbsp; <img width="500"  src="https://github-readme-stats.vercel.app/api?username=iamnotlukas&show_icons=true&locale=en" alt="iamnotlukas"/></p>
+
+</div>
