@@ -14,6 +14,8 @@
 <p align="left">
   <a href="https://linkedin.com/in/](https://www.linkedin.com/in/lukas-andrade-502156225/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-wolski" height="30" width="40" /></a>
   <a href="https://instagram.com/oi.lukass" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrobwolski" height="30" width="40" /></a>
-  
-https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotlukas&layout=compact
-
+  <br>
+  <br>
+  <br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotlukas&layout=compact">
+</div>
