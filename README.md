@@ -1,3 +1,5 @@
+<h2>Working in:</h2>
+<img src="https://i.imgur.com/wWZG3NG.png" width="60" >
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
