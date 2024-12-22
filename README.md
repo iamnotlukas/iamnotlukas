@@ -1,14 +1,14 @@
 <h1 align="center">Opa 👋, eu sou Lucas Andrade</h1>
-<h3 align="center">Militar da Marinha do Brasil atuando como Especialista em Suporte e Desenvolvimento de Sistemas.</h3>
+<h3 align="center">Militar da Marinha do Brasil.</h3>
 <br>
 <img align="right" width="100" src="https://i.imgur.com/wWZG3NG.png">
 
 
-- 🤓 Atualmente, aprendendo **Python**
+- ✍ Atualmente, aprendendo **Python**
 
 - 📚 Aluno de Desenvolvimento de Software Multiplataforma pela **FATEC**
 
-- 💻 Estagiário na **Prefeitura de Praia de Prande**
+- 💻 Especialista em Suporte e Desenvolvimento de Sistemas na **Marinha do Brasil**
 
 <div>
   <h3 align="left">Languages:</h3>
